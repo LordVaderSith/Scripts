@@ -1,0 +1,6 @@
+\Software\Microsoft\Windows\CurrentVersion\Run
+\Software\Microsoft\Windows\CurrentVersion\RunOnce
+\Software\Classes\Drive\ShellEx\ContextMenuHandlers
+\Software\Classes\Directory\ShellEx\ContextMenuHandlers
+\Software\Classes\Directory\Shellex\DragDropHandlers
+\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers

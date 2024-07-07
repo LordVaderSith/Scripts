@@ -1,0 +1,29 @@
+HKLM\Software\Microsoft\Windows\currentVersion\Run
+HKLM\Software\Wow6432Node\Microsoft\Windows\currentVersion\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
+"HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+"HKLM\SOFTWARE\Microsoft\Command Processor"
+"HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tasks"
+"HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tree"
+"HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler"
+"HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler"
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+HKLM\Software\Wow6432Node\Classes\Drive\ShellEx\ContextMenuHandlers
+HKLM\Software\Classes\Directory\ShellEx\ContextMenuHandlers
+HKLM\Software\Wow6432Node\Classes\Directory\ShellEx\ContextMenuHandlers
+HKLM\Software\Classes\Directory\Shellex\DragDropHandlers
+HKLM\Software\Wow6432Node\Classes\Directory\Shellex\DragDropHandlers
+HKLM\Software\Classes\Directory\Shellex\CopyHookHandlers
+HKLM\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers
+HKLM\Software\Wow6432Node\Classes\Directory\Background\ShellEx\ContextMenuHandlers
+HKLM\Software\Classes\Folder\ShellEx\ContextMenuHandlers
+HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\ContextMenuHandlers
+HKLM\Software\Classes\Folder\ShellEx\DragDropHandlers
+HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\DragDropHandlers
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+HKLM\SYSTEM\CurrentControlSet\Enum\USBSTOR
